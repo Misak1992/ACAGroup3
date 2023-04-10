@@ -1,0 +1,53 @@
+body {
+  background: rgb(201, 250, 54);
+}
+
+h1 {
+  cursor: help;
+  padding: 5px;
+}
+
+.main {
+  background: blue;
+  width: 800px;
+  height: 700px;
+  border: 1px solid black;
+  margin: auto;
+}
+
+.header {
+  height: 16%;
+}
+
+.form {
+  background: red;
+  width: 100%;
+  text-align: center;
+}
+
+input {
+  border-radius: 20px;
+  border: none;
+  font-size: 18px;
+  height: 25px;
+  width: 450px;
+}
+
+.check {
+  height: 25px;
+  width: 25px;
+}
+
+.contDiv {
+  display: flex;
+  justify-content: center;
+  background-color: orange;
+}
+
+/*
+.newDiv {
+  display: flex;
+  justify-content: center;
+  display: none;
+}
+*/
